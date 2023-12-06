@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ana Laura Martins 🐞
+# Olá! Eu sou a Ana Laura Martins 🐞
 
 ## Atualmente tenho 22 anos, moro no interiror de SP e estou começando meus estudos na área de tecnologia. Estou cursando um técnico de TI no Etec Fernando Prestes. Aqui será dedicado aos meus estudos e avanços que tenho dentro e fora do curso! 
 
