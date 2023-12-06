@@ -1,4 +1,6 @@
-### Olá! Eu sou a Ana Laura Martins
+### Olá! Eu sou a Ana Laura Martins 🐞
+
+![Ana Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaLauraMartinsS&show_icons=true&theme=dracula)
 
 <div> 
   <a href="https://www.instagram.com/_martins_al/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
