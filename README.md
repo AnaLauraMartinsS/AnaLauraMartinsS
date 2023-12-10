@@ -1,6 +1,8 @@
-# Olá! Eu sou a Ana Laura Martins 🐞
+# Olá! Eu sou a Ana Laura Martins 
 
-## Atualmente tenho 22 anos, moro no interior de SP e estou começando meus estudos na área de tecnologia. Estou cursando um técnico de TI no Etec Fernando Prestes. Aqui será dedicado aos meus estudos e avanços que tenho dentro e fora do curso! 
+#### Atualmente tenho 22 anos, moro no interior de SP e estou começando meus estudos na área de tecnologia. Estou cursando um técnico de TI no Etec Fernando Prestes. Aqui será dedicado aos meus estudos e avanços que tenho dentro e fora do curso! 
+
+<br>
 
 ![Ana Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaLauraMartinsS&show_icons=true&theme=shadow_red)
 
