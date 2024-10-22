@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+Welcome+my+Github!;I'm+Ana+Martins✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem-vindo ao meu GitHub!👋✨;)](https://git.io/typing-svg)
+
+# Sobre Mim
 
 #### Atualmente tenho 23 anos e sou estudante da ETEC Fernando Prestes na área de TI, no interior de São Paulo. Estou atualmente envolvida no meu aprendizado e comprometida em me tornar um profissional qualificado na área.
 
