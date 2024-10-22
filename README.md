@@ -4,8 +4,6 @@
 
 #### Atualmente tenho 23 anos e sou estudante da ETEC Fernando Prestes na área de TI, no interior de São Paulo. Estou atualmente envolvida no meu aprendizado e comprometida em me tornar um profissional qualificado na área.
 
-## Here are my github stats 🚀
-
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnaLauraMartinsS&theme=tokyonight)](https://git.io/streak-stats)
