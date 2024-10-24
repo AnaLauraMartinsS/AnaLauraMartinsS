@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=AnaLauraMartinsS&theme=tokyonight)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=AnaLauraMartinsS&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <br>
