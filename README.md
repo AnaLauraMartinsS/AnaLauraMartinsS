@@ -15,9 +15,9 @@
 </div>
 
 <br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnaLauraMartinsS&theme=tokyonight)](https://git.io/streak-stats)
-
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=AnaLauraMartinsS&theme=tokyonight)](https://git.io/streak-stats)
+</div>
 <hr>
 
 <div> 
