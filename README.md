@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3> Sobre Mim </h3>
-  <p>Atualmente tenho 23 anos e sou estudante da ETEC Fernando Prestes na área de TI, no interior de São Paulo. Estou atualmente envolvida no meu aprendizado e comprometida em me tornar um profissional qualificado na área.</p>
+  <p>Atualmente tenho 24 anos e sou estudante da FATEC de Votorantim na área de programação, no interior de São Paulo. Estou atualmente envolvida no meu aprendizado e comprometida em me tornar um profissional qualificado na área.</p>
 </div>
 
 <div align="center">
