@@ -1,12 +1,4 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo(a)+ao+meu+GitHub!+👋✨;Apaixonada+por+tecnologia+e+aprendizado+contínuo!" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <h3>👩‍💻 Sobre Mim</h3>
   <p>Olá! Me chamo Ana Laura, tenho 24 anos e sou estudante de Desenvolvimento de Software na <strong>FATEC Votorantim</strong>, no interior de São Paulo.</p>
   <p>Sou entusiasta da tecnologia e estou em constante evolução para me tornar uma profissional qualificada na área de programação. 🚀</p>
