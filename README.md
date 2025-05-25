@@ -30,6 +30,6 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br><br>  
 </div>
 
-
-
+## Entre em contato 
+Me chama no [LinkedIn](https://www.linkedin.com/in/ana-laura-martins-souto-67a68a206/)
 
