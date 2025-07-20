@@ -32,7 +32,7 @@ Estudante de Desenvolvimento de Software na **FATEC Votorantim** com foco em con
 
 ## 📂 Projetos Acadêmicos
 
-[🔗 Repositório de Projetos da FATEC](link_para_seus_projetos) - Coleção de trabalhos desenvolvidos durante a graduação, demonstrando evolução nas tecnologias estudadas.
+[🔗 Repositório de Projetos da FATEC](https://github.com/AnaLauraMartinsS/NotaGest) - Coleção de trabalhos desenvolvidos durante a graduação, demonstrando evolução nas tecnologias estudadas.
 
 
 ## 📫 Contato
