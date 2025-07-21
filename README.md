@@ -8,9 +8,9 @@
 
 Estudante de Desenvolvimento de Software na **FATEC Votorantim** com foco em construir carreira como desenvolvedora full-stack.
 
-- 🎓 Cursando Desenvolvimento de Sistemas Multiplataformas
-- 🌱 Atualmente aprofundando conhecimentos em Java, React, Python e Banco de Dados (SQL e NoSQL)
-- 💡 Interesses: Desenvolvimento Back-end, Banco de Dados e Arquitetura de Software.
+-  Cursando Desenvolvimento de Sistemas Multiplataformas
+-  Atualmente aprofundando conhecimentos em Java, React, Python e Banco de Dados (SQL e NoSQL)
+-  Interesses: Desenvolvimento Back-end, Banco de Dados e Arquitetura de Software.
 
 ## 🛠 Habilidades Técnicas
 
