@@ -12,7 +12,7 @@ Estudante de Desenvolvimento de Software na **FATEC Votorantim** com foco em con
 -  Atualmente aprofundando conhecimentos em Java, React, Python e Banco de Dados (SQL e NoSQL)
 -  Interesses: Desenvolvimento Back-end, Banco de Dados e Arquitetura de Software.
 
-## 🛠 Habilidades Técnicas
+## Habilidades Técnicas
 
 ### Linguagens e Tecnologias
 <div style="display: inline_block">
@@ -30,7 +30,7 @@ Estudante de Desenvolvimento de Software na **FATEC Votorantim** com foco em con
 - Princípios de clean code e boas práticas
 - Versionamento com Git/GitHub
 
-## 📂 Projetos Acadêmicos
+## Projetos Acadêmicos
 
 [🔗 Repositório de Projetos da FATEC](https://github.com/AnaLauraMartinsS/NotaGest) - Coleção de trabalhos desenvolvidos durante a graduação, demonstrando evolução nas tecnologias estudadas.
 
