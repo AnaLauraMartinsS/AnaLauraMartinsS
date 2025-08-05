@@ -1,9 +1,5 @@
 # Ana Laura Martins Souto | Desenvolvedora em Formação
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnaLauraMartinsS&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 👩‍💻 Sobre Mim
 
 Estudante de Desenvolvimento de Software na **FATEC Votorantim** com foco em construir carreira como desenvolvedora full-stack.
